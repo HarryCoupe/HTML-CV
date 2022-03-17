@@ -72,6 +72,11 @@ li {
 
 /** big title **/
 
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
 #title {
   position: relative;
   max-width: 90%;
